@@ -1,35 +1,55 @@
-# Regression Analysis Project
+# 📈 Regression-Models
 
-**Explore simple and multiple linear regression with real-world datasets**
-
----
-
-## 📊 Overview
-
-This repository contains a collection of Jupyter notebooks where I apply **linear regression** techniques to different datasets. You’ll find:
-
-- Single-variable regression on salary and income data  
-- House price prediction using both simple and multiple regression
-
-Each notebook guides you through:
-1. Data cleaning and preprocessing  
-2. Feature exploration and visualization  
-3. Model training and evaluation  
-4. Interpretation of results
+Welcome to **Regression-Models** — a hands-on repository designed for practicing, exploring, and mastering various regression techniques using Jupyter Notebooks.
 
 ---
 
-## 🧪 Notebooks
+## 🎯 Purpose
 
-- `LINEAR_REGRESSION_on_Salary_dataset.ipynb` – Predict salary based on years of experience  
-- `LINEAR_REGRESSION_on_Income_dataset.ipynb` – Predict income using a single predictor  
-- `House_Prices_dataset.ipynb` – Simple linear model for housing prices  
-- `MULTIPLE_LINEAR_REGRESSION_on_house_dataset.ipynb` – Multi-feature regression on house data
+This repository offers a collection of regression models, ideal for learners, enthusiasts, and professionals who want to strengthen their understanding of machine learning’s foundational concepts.
+
+---
+
+## 🧰 What’s Inside
+
+- **Regression Algorithms:** Linear Regression, Polynomial Regression, Ridge, Lasso, and more.
+- **Data Preprocessing:** Cleaning, feature engineering, and scaling practices.
+- **Visualization:** Interactive plots for data and model performance.
+- **Evaluation Metrics:** RMSE, MAE, R², and diagnostic plots.
+- **Step-by-Step Guides:** Clear explanations and commented code for self-study.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Jupyter Notebook** (100%)
 
 ---
 
 ## 🚀 Getting Started
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/HammadAli08/Regression.git
+1. **Clone this repository:**  
+   `git clone https://github.com/HammadAli08/Regression-Models.git`
+2. **Launch Jupyter Notebook or JupyterLab.**
+3. **Open any notebook, run the cells, and learn by experimenting!**
+
+---
+
+## 🤝 Contributing
+
+Contributions, suggestions, and feedback are always welcome!  
+Fork the repo, open an issue, or submit a pull request to help improve this toolbox.
+
+---
+
+## 📄 License
+
+Distributed under the [MIT License](LICENSE).
+
+---
+
+> **“Models for Practice”**
+
+---
+
+Happy learning and coding!
